@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rust.WebRcon", "Rust.WebRcon\Rust.WebRcon.csproj", "{5098F341-A76B-466A-8786-D594D1E422B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RustWebRcon", "RustWebRcon\RustWebRcon.csproj", "{5098F341-A76B-466A-8786-D594D1E422B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RustWebRcon.ConsoleApp.Sample", "RustWebRcon.Console.Sample\RustWebRcon.ConsoleApp.Sample.csproj", "{378545B3-4C08-4430-AA03-DC66417FF7AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5098F341-A76B-466A-8786-D594D1E422B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5098F341-A76B-466A-8786-D594D1E422B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5098F341-A76B-466A-8786-D594D1E422B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378545B3-4C08-4430-AA03-DC66417FF7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378545B3-4C08-4430-AA03-DC66417FF7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378545B3-4C08-4430-AA03-DC66417FF7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378545B3-4C08-4430-AA03-DC66417FF7AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
