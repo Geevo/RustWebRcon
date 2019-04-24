@@ -1,5 +1,5 @@
 # RustWebRcon
-Simple Rust WebRcon library for capturing in-game events
+Simple Rust WebRcon c# library for capturing in-game events
 
 The code was originally ripped out of much bigger project we had that had a website, repo and discord bot.
 At the time of developing we couldn't find anything that worked for us.
